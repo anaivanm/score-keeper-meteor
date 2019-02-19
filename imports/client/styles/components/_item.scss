@@ -1,0 +1,23 @@
+.item {
+    background: #FFFF;
+    border: 1px solid #e8e8e8;
+    margin-bottom: 1.3rem;
+    padding: 1.3rem;
+}
+.item--position-1 {
+    background: $green;
+}
+
+.item--position-2 {
+    background: lightblue;
+}
+.item--position-3 {
+    background: lightsalmon;
+}
+
+.item__message {
+    font-size: 1.3rem;
+    font-style: italic;
+    font-weight: 300;
+    text-align: center;
+}
