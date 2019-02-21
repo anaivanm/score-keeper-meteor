@@ -10,12 +10,7 @@
     line-height: 1;
     transition: background .2s ease, transform .1 ease;
 
-    &:hover, &:focus {
-        background: #e8e8e8;
-    }
-
     &:active {
-        background: #cccc;
         transform: scale(1.1);
     }
 }
